@@ -1,7 +1,7 @@
 ### Olá eu Sou o Douglas 👋
 
 <!--
-**graeff01/graeff01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**graeff/graeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
