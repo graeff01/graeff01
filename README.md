@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9a4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b9a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Douglas+Graeff;I%27m+21+years+old;I%27m+from+Brazil;Be+Welcome!+:%29)
-)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=graeff01&bg_color=0d1117&color=b91&line=b91&point=ff9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
