@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a7bb&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a7bb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Douglas+Graeff;I%27m+21+years+old;I%27m+from+Brazil;Be+Welcome!+:%29)
 
@@ -31,5 +31,5 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a7bb&height=120&section=footer"/>
 
