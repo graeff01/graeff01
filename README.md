@@ -8,7 +8,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Graeff01&show_icons=true&count_private=true&hide_border=true&title_color=9a4&icon_color=9a4&text_color=9a4&bg_color=0d1117%22%20alt=%22Douglas%20Graeff%20github%20stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graeff01&layout=compact&hide_border=true&title_color=9a4&text_color=ff91a4&bg_color=0d111" />
 </div>
 
