@@ -31,7 +31,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{graeff01}/count.svg" /></p> 
 <br>
-</div>
+  </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a7bb&height=120&section=footer"/>
