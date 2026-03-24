@@ -2,9 +2,9 @@
 
 QA Analyst | Cypress | Telecom & Networks | Founder @ Veloce
 
-Comecei na tecnologia fundando uma agência, percebi que clientes tinham problemas operacionais sérios e fui aprender a resolver isso com código. Hoje tenho sistemas em produção com usuários reais — e testo cada um deles.
+Comecei na tecnologia fundando uma agência, percebi que clientes tinham problemas operacionais sérios e fui aprender a resolver isso com código. Hoje tenho sistemas em produção com usuários reais e testo cada um deles.
 
-Tenho experiência em QA em duas empresas, com destaque para a Parks SA, onde testei firmware de roteadores e equipamentos de telecom com uma equipe de desenvolvimento na China — comunicação diária em inglês, bug reporting e validação de correções.
+Tenho experiência em QA em duas empresas, com destaque para a Parks SA, onde testei firmware de roteadores e equipamentos de telecom com uma equipe de desenvolvimento na China, comunicação diária em inglês, bug reporting e validação de correções.
 
 Atualmente desenvolvendo automação de testes com Cypress aplicada em sistemas reais em produção.
 
@@ -29,6 +29,6 @@ Atualmente desenvolvendo automação de testes com Cypress aplicada em sistemas 
 
 <div>
   <a href="https://instagram.com/yograeff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:douglas@velocebm.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:douglasggraeff@icloud.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/graeffdouglas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
